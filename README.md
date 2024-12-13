@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Omer Shahaf! 👋
 
-<!--
-**OShahaf/OShahaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently pursuing a **B.A. in Business Administration** with a focus on **Information Systems** at **Ono Academic College**.
 
-Here are some ideas to get you started:
+## 👨‍💻 What I'm Working On
+- Learning foundational programming concepts, web development, and business systems.
+- Exploring cybersecurity, systems analysis, and databases.
+- Excited to start building personal projects and applying what I learn as I progress through my studies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I Use
+- **Languages**: HTML, CSS (basics), preparing to learn JavaScript
+- **Tools**: Code App (iPad)
+
+## 📫 How to Reach Me
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/omer-os-shahaf)
