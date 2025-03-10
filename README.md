@@ -8,8 +8,9 @@ I’m currently pursuing a **B.A. in Business Administration** with a focus on *
 - Excited to start building personal projects and applying what I learn as I progress through my studies.
 
 ## 🛠️ Technologies I Use
-- **Languages**: HTML, CSS (basics), preparing to learn JavaScript
-- **Tools**: Code App (iPad)
+- **Languages**: HTML, CSS, & JavaScript
+- **Tools**: Visual Studio Code (Mac), Code App (iPad)
 
 ## 📫 How to Reach Me
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/omer-os-shahaf)
+- Discord: [omer.os.shahaf](https://discord.com/users/1348640119921311764)
